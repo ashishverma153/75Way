@@ -5,7 +5,6 @@ The project demonstrates secure authentication, role-based access control, cours
 
 ## Live Demo
 
-- Repository: https://github.com/ANUSHK-24/Major_lms
 - Live Application: https://major-lms-2.onrender.com/
 
 ## Overview
@@ -213,5 +212,4 @@ This structure makes it easier to scale the application by introducing caching, 
 
 ## Author
 
-ANUSHK KUMAR RAJ  
-GitHub: https://github.com/ANUSHK-24
+ASHISH VERMA
